@@ -1,6 +1,0 @@
-- 👋 Hi, I’m @X-L117
-- 👀 I’m interested in becoming a ai-development or software engineering but currently trying to find software developer apprenticeship as a basic start up, main reason for me being interest in AI is that I am intrigued by how they work as well as wanting to create own chatbot that can be used to commmunicate  
-- 🌱 I’m currently learning Python as the first programming language before moving onto the more complex/other programming languages like java or C++
-- 💞️ I’m looking to collaborate on basic project that could help me with improving my programming languages further. 
-- 📫 How to reach me
-- 😄 Pronouns: Male
