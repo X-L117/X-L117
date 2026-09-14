@@ -16,6 +16,6 @@ https://vscode.dev/
 
 ---
 
-## 🧭 Learning Roadmap (2025)
+## 🧭 Learning Roadmap (2026)
 
 ```plaintext
