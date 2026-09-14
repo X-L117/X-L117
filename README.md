@@ -1,22 +1,18 @@
 # 👋 Hi, I'm Xing
-Currently a SHU student looking to develop my programming ability as well as problem solving skills that can then be applied to real world problems.
----
+Currently a SHU student who is studying for BSc (Hons) Computer Science with Artificial Intelligence (Level 4) looking to develop my programming ability as well as problem solving skills that can then be applied to real world problems.
+--- 
 
-## 🚀 Current Goals
+## 🚀 Current Goals (for the first year)
 
-- [ ] Master Python fundamentals (✓ variables, strings, loops, functions)
-- [ ] Learn OOP (Object-Oriented Programming)
-- [ ] Start building AI models (NLP + emotion detection)
-- [ ] Explore Java or C++ as a second language
-- [ ] Contribute to open source beginner projects
+- [ ]  Python fundamentals (for practical AI development) 
+- [ ] 
+- [ ] 
 
 ---
 
-## 🛠️ Tools & Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-(https://vscode.dev/)
+## 🛠️ Tools
+https://www.linkedin.com/
+https://vscode.dev/
 
 ---
 
